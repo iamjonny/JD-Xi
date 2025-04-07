@@ -4,13 +4,13 @@
 
 ## Control 
 
-## MIDI  
+### MIDI  
 
-## SysEx
+### SysEx
 
-### requests 
+#### requests 
 
-## NRPN  
+### NRPN  
 
 ## Tools 
 
